@@ -4,12 +4,12 @@ Language for this project : Bahasa Indonesia
 *Collaboration project*
 
 ## Anggota Kelompok
-Fadli Muhammad
-Shiba Salsabilla
-Haryo Bismo Wicaksono
-Ahmad Zulfikar Al Ghiffari
-Dhiwa Abqariyyah
-Olga Kabsyah Ramadhani
+- Fadli Muhammad (myself)
+- Shiba Salsabilla
+- Haryo Bismo Wicaksono
+- Ahmad Zulfikar Al Ghiffari
+- Dhiwa Abqariyyah
+- Olga Kabsyah Ramadhani
 
 ## Tema: Budgeting Uang Bulanan
 
@@ -33,7 +33,7 @@ Program ini merupakan sebuah program sederhana untuk menghitung budget pengeluar
 ## Cara Menjalankan Program
 1. Pastikan Anda memiliki Python terinstal di komputer Anda.
 
-2. Jalankan program dengan menjalankan kode Python di atas.
+2. Jalankan program dengan menjalankan kode Python UAS_Pengantar Pemrograman.py.
 
 3. Ikuti petunjuk yang muncul di layar untuk memasukkan data dan melihat hasil penghitungan budget.
 
