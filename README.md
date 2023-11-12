@@ -6,7 +6,7 @@ Language for this project : Bahasa Indonesia
 __Collaboration project__
 
 ## Anggota Kelompok
-__- Fadli Muhammad (myself)*__
+- __Fadli Muhammad (myself)__
 - Shiba Salsabilla
 - Haryo Bismo Wicaksono
 - Ahmad Zulfikar Al Ghiffari
