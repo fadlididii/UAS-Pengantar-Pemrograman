@@ -1,10 +1,12 @@
 # UAS-Pengantar-Pemrograman
 Program Language : Python
+
 Language for this project : Bahasa Indonesia
-*Collaboration project*
+
+__Collaboration project__
 
 ## Anggota Kelompok
-*- Fadli Muhammad (myself)*
+__- Fadli Muhammad (myself)*__
 - Shiba Salsabilla
 - Haryo Bismo Wicaksono
 - Ahmad Zulfikar Al Ghiffari
